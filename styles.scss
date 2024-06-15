@@ -1,8 +1,8 @@
-@import "/sass/vendors/_bootstrap.scss";
+@import "./sass/vendors/_bootstrap.scss";
 
-@import "./sass/abstracts/mixins";
-@import "./sass/abstracts/variables";
-@import "./sass/abstracts/helpers";
+@import "./sass/abstracts/_mixins";
+@import "./sass/abstracts/_variables";
+@import "./sass/abstracts/_helpers";
 
 @import "./sass/base/base";
 @import "./sass/base/typography";
